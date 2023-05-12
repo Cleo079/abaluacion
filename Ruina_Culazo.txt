@@ -1,4 +1,4 @@
-     DADASDASDASDASDASD        Nivel:1 (0xp)
+﻿ASDASDASDASDASDASDASD     DADASDASDASDASDASD        Nivel:1 (0xp)
 Nombre:Talhand          Apellido:Grimnïr
 Genero:Hombre           Edat:74
 Raza:Enano              Clase:Paladín
