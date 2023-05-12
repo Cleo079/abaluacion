@@ -1,0 +1,137 @@
+﻿ASDASDASDASDASDASDASD     DADASDASDASDASDASD        Nivel:1 (0xp)
+Nombre:Talhand          Apellido:Grimnïr
+Genero:Hombre           Edat:74
+Raza:Enano              Clase:Paladín
+	Elemento:Ventus
+		Maestra:Heiðurnr Ojo Dracónido
+Rasgo Positivo:
+Rasgo Neutral: 
+Rasgo Negativo:
+Personalidad/Descripcion:
+----------------------------------------
+Dinero: 
+0 PLatino   {100 Platino = 100 Platino}
+0 Oro       {100 Oro = 1 Platino}
+1 Plata     {100 Plata = 1 Oro}
+0 Cobre     {100 Cobre = 1 Plata}
+----------------------------------------
+Region:[1 JABERKOCK]
+----------------------------------------
+PI: 0
+---------------
+P.Atributo (Se adquieren al completar mazmorras o misiones){Aumentar las estadisticas}
+P.Destreza (Se adquieren con el entrenamiento o grandes enfrentamientos){Mejorar habilidades o pasivas y Adquirir}
+P.Fortaleza(Se adquieren al subir de nivel y utilizar la constitucion en fortalezas){Aumentar las Resistencias}
+P.Sabiduria(Se consiguen con conocimiento o uso de ella){Aumentar los saberes}
+P.Personaje(Se adquieren con el uso de ellas [PER/CAR/SAB/INT/SUE...]){Aumentar los atributos de Personaje}
+
+--------------------------------------
+[0]
+
+Vida:12                    MANA:12
+
+FUE:3            PREf:5          DESf:1
+MAGIA:2          PREd:3          DESd:1
+AGIL:5           PREm:3          DESm:1
+
+
+---ESTABLES
+Def:12         Mov:5 Correr +2 
+DefM:11        Ini:2
+
+--------------------------------------
+[]
+
+CARISMA:3
+SABIDURIA:5
+INTELIGECIA:5
+PERCEPCION:4
+CONSTITUCION:6
+SUERTE:3
+
+VOLUNTAD:0/100/200
+
+---SABERES:
+[]
+.Herreria	5
+.Cocina		5
+.Idiomas	5
+.Botanica	5
+
+---Resistencia Daño:
+
+
+---Resistencias Estados:[1]
+
+Aturdir:       25%           Sangrado:  10%
+Paralisis:      5%           Quemadura:  5%
+Congelar:      10%           Infeccion: 10%
+Veneno:        10%           Virus:     15%
+Desequilibrar:  5%           Mental:     0%
+Ceguera:	0%
+
+
+EQUIPO:
+-Cabeza:
+-Cuerpo:Tunica de Tela Marron(1Agil)
+-ManoIzquierda:Martillo Ligero de Carpintero (D4+1/+1Pen)
+-ManoDerecha:
+-Accesorio:
+-Accesorio2:
+
+HABILIDADES:
+Hab:Ataque Poderoso (Ataque Normal + 1,5 DesF) 4 uso Combate
+
+
+
+PASIVA:
+
+
+
+HECHIZOS:
+
+
+ELEMENTALES
+
+-----
+
+MAESTRIA:[Hasta nivel 3]
+
+
+GUARDADAS [1/3]
+Pas:Golpes Fuertes (+4Dmg y 2PreF con Armas contundentes)
+
+
+POSES:
+[Esquivar y golpear]+5Agil Contrataque
+[Defenderte y golpear]+5Def Contrataque
+[Protegerse]+7Def Defenderte
+[Evadir]+7Esquivar
+
+Inventario:(12)
+-
+-{Amuleto }
+-{Medallon de la Antigua Orden}
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+ATUENDOS:
+
+
+Lore:
+Nacido en las profundidades de una Mina de Hierro, actualmente abandonada.
+Paladin de la Antigua Orden a cargo del General de
+Un dia de trabajo en la Mina, un monton de rocas se desprendieron y en dicho momento se dio cuenta de su afinidad mágica al Elemento Ventus.
+
+
+
+
+
